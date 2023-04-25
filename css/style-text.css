@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    float: left;
+    margin: 15px;
+}
+
+p{
+    background-color: yellow;
+}
